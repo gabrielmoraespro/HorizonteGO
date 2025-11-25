@@ -1,0 +1,8 @@
+id,countryId,category,title,description,severity,isActive,createdAt
+1,,scam_alert,Nunca pague taxas antecipadas,"Empregadores legítimos NUNCA pedem pagamento antecipado para processar sua candidatura ou garantir uma vaga. Se alguém pedir dinheiro antes de você começar a trabalhar, é golpe.",high,1,2025-11-21 15:29:43
+2,,scam_alert,Cuidado com promessas irrealistas,"Desconfie de ofertas que prometem salários muito acima da média, aprovação garantida de visto ou processo extremamente rápido. Pesquise a média salarial do país e da posição.",high,1,2025-11-21 15:29:43
+3,,verification,Verifique a empresa no site oficial,"Antes de aplicar, procure a empresa em sites oficiais de registro empresarial do país. No Canadá, use o Canada Business Registry. Na Noruega, use o Brønnøysundregistrene.",medium,1,2025-11-21 15:29:43
+4,,verification,Confirme a vaga em sites governamentais,"Vagas legítimas geralmente aparecem em portais oficiais como Job Bank Canada ou NAV.NO. Se a vaga só existe em um site desconhecido, investigue mais.",medium,1,2025-11-21 15:29:43
+5,,safety_tip,Use apenas canais oficiais de comunicação,"Prefira comunicação por email corporativo da empresa. Desconfie de ofertas feitas apenas por WhatsApp, Telegram ou redes sociais.",medium,1,2025-11-21 15:29:43
+6,,safety_tip,Leia o contrato com atenção,"Antes de assinar qualquer contrato, leia todos os termos. Se possível, peça para um advogado revisar. Contratos legítimos são claros sobre salário, benefícios e condições de trabalho.",medium,1,2025-11-21 15:29:43
+7,,official_resource,Consulte a embaixada ou consulado,"Em caso de dúvida, entre em contato com a embaixada ou consulado do país de destino no Brasil. Eles podem confirmar se um empregador é legítimo.",low,1,2025-11-21 15:29:43

@@ -1,0 +1,1 @@
+ALTER TABLE `userProgress` ADD `viewedAt` timestamp;

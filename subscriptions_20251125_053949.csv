@@ -1,0 +1,1 @@
+id,userId,stripeCustomerId,stripeSubscriptionId,stripePriceId,planName,status,currentPeriodStart,currentPeriodEnd,cancelAt,cancelAtPeriodEnd,createdAt,updatedAt

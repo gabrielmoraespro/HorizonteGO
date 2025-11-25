@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763738397689,
+      "tag": "0000_hot_bushwacker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763738475274,
+      "tag": "0001_amusing_sentinel",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763740079379,
+      "tag": "0002_solid_liz_osborn",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1763747838948,
+      "tag": "0003_flawless_ender_wiggin",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1763776162699,
+      "tag": "0004_unique_nitro",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1763777015119,
+      "tag": "0005_orange_rafael_vega",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1763946007756,
+      "tag": "0006_light_ghost_rider",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1764043812694,
+      "tag": "0007_far_bedlam",
+      "breakpoints": true
+    }
+  ]
+}

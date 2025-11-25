@@ -1,0 +1,18 @@
+id,countryId,stage,title,description,orderIndex,createdAt,url
+1,1,preparation,Pesquisar sobre o Canadá,"Aprenda sobre cultura, clima e custo de vida no Canadá",1,2025-11-21 15:29:43,
+2,1,preparation,Verificar elegibilidade para visto de trabalho,Confirme se você atende aos requisitos para trabalhar temporariamente no Canadá,2,2025-11-21 15:29:43,
+3,1,documentation,Obter passaporte válido,Seu passaporte deve ter validade de pelo menos 6 meses,3,2025-11-21 15:29:43,
+4,1,documentation,Preparar documentos de identificação,"RG, CPF, comprovante de residência e outros documentos necessários",4,2025-11-21 15:29:43,
+5,1,application,Aplicar para vagas,Envie currículos e cartas de apresentação para empregadores canadenses,5,2025-11-21 15:29:43,
+6,1,application,Solicitar visto de trabalho,"Após receber oferta de emprego, inicie o processo de visto",6,2025-11-21 15:29:43,
+7,1,interview,Preparar para entrevistas,Pratique respostas comuns e pesquise sobre o empregador,7,2025-11-21 15:29:43,
+8,1,approval,Aguardar aprovação do visto,O processo pode levar algumas semanas,8,2025-11-21 15:29:43,
+9,1,boarding,Comprar passagens aéreas,Reserve seus voos com antecedência,9,2025-11-21 15:29:43,
+10,1,boarding,Organizar acomodação inicial,Reserve hospedagem para as primeiras semanas,10,2025-11-21 15:29:43,
+11,2,preparation,Pesquisar sobre a Noruega,"Aprenda sobre cultura, clima e custo de vida na Noruega",1,2025-11-21 15:29:43,https://workinnorway.no/en/About+this+site/Public+agencies+involved
+12,2,preparation,Verificar requisitos de visto,Confirme os requisitos para trabalho sazonal na Noruega,2,2025-11-21 15:29:43,https://workinnorway.no/en/Guide+for+citizens+from+countries+outside+EU+and+EEA/Living+and+working+in+Norway/Working+conditions
+13,2,documentation,Obter passaporte válido,Passaporte com validade mínima de 6 meses,3,2025-11-21 15:29:43,
+14,2,application,Aplicar para vagas em plataformas oficiais,Use NAV.NO e outros sites oficiais,4,2025-11-21 15:29:43,https://arbeidsplassen.nav.no/stillinger?county=ØSTFOLD&v=5&county=VESTLAND&county=VESTFOLD&county=TRØNDELAG&county=TROMS&county=TELEMARK&county=SVALBARD&county=ROGALAND&county=OSLO&county=NORDLAND&county=MØRE+OG+ROMSDAL&county=INNLANDET&county=FINNMARK&county=BUSKERUD&county=AKERSHUS&county=AGDER&q=english
+15,2,interview,Participar de entrevistas,Prepare-se para entrevistas por vídeo ou telefone,5,2025-11-21 15:29:43,
+16,2,approval,Aguardar aprovação,Aguarde confirmação do empregador e aprovação de visto,6,2025-11-21 15:29:43,https://workinnorway.no/en/Guide+for+citizens+from+countries+outside+EU+and+EEA/Living+and+working+in+Norway/Working+conditions
+17,2,boarding,Planejar viagem,Organize passagens e acomodação inicial,7,2025-11-21 15:29:43,https://workinnorway.no/en/Guide+for+citizens+from+countries+outside+EU+and+EEA/Living+and+working+in+Norway/Living+in+Norway
